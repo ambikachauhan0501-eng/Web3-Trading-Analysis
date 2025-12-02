@@ -21,23 +21,22 @@ All charts and plots are stored in the `outputs/` folder:
 - Trade size & fee histograms  
 
 
-## 📁 Data Sources
+##  Data Sources
 - Historical Trader Data: [Google Drive Link](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing)  
 - Fear & Greed Index: [Google Drive Link](https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing)  
 
 ---
 
-## ⚙️ How to Run
+##  How to Run
 1. Open the Colab notebook using the link above.  
 2. Ensure you have access to the datasets (Google Drive links provided).  
 3. Run all cells in order to reproduce the analysis.  
 4. Visual outputs will be generated and saved into the `outputs/` folder.  
 5. Refer to `ds_report.pdf` for a concise summary of insights.
 
-## ✅ Conclusion
+##  Conclusion
 Trader profitability and behavior are strongly influenced by sentiment.  
 - Greed days are most profitable.  
 - Neutral days are weakest.  
 - Fear drives the majority of trading activity.  
 
-This project demonstrates how sentiment analysis can be integrated into trading strategies for better decision-making in Web3 environments.
